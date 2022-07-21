@@ -1,4 +1,4 @@
-# Week-18-Blockchain-creation
+# Blockchain-creation
 
 Blockchain technology has taken the world by a storm. With the advent of Blockchain in 2008, it has been shown its applicability to different sectors like art, media, banking and finance, insurance, media & entretainment, telecommunication, etc. Concepts and applications like bitcoin, NFTs(Non Fungible Tokens), DeFi(Decentralized Finance),etc are
 
